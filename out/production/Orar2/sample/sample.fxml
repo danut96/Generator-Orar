@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <AnchorPane prefHeight="419.0" prefWidth="643.0">
+         <children>
+            <GridPane fx:id="gridPane" gridLinesVisible="true" layoutY="48.0" prefHeight="383.0" prefWidth="643.0">
+              <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="103.0" minWidth="10.0" prefWidth="57.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="158.0" minWidth="10.0" prefWidth="120.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="153.0" minWidth="10.0" prefWidth="120.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="153.0" minWidth="10.0" prefWidth="120.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="135.0" minWidth="10.0" prefWidth="120.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="122.0" minWidth="10.0" prefWidth="120.0" />
+              </columnConstraints>
+              <rowConstraints>
+                  <RowConstraints maxHeight="118.0" minHeight="10.0" prefHeight="59.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="118.0" minHeight="10.0" prefHeight="80.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="139.0" minHeight="10.0" prefHeight="80.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="118.0" minHeight="10.0" prefHeight="80.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="154.0" minHeight="10.0" prefHeight="80.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="87.0" minHeight="10.0" prefHeight="80.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="87.0" minHeight="10.0" prefHeight="80.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="87.0" minHeight="10.0" prefHeight="80.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Label alignment="CENTER" prefHeight="39.0" prefWidth="148.0" text="LUNI" GridPane.columnIndex="1">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" prefHeight="57.0" prefWidth="169.0" text="MARTI" GridPane.columnIndex="2">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" prefHeight="61.0" prefWidth="200.0" text="MIERCURI" GridPane.columnIndex="3">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" prefHeight="55.0" prefWidth="203.0" text="JOI" GridPane.columnIndex="4">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" prefHeight="60.0" prefWidth="173.0" text="VINERI" GridPane.columnIndex="5">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label prefHeight="70.0" prefWidth="54.0" text="8:00 -8:50" GridPane.rowIndex="1" />
+                  <Label prefHeight="81.0" prefWidth="103.0" text="9:00 -9:50" GridPane.rowIndex="2" />
+                  <Label prefHeight="76.0" prefWidth="103.0" text="10-10:50" GridPane.rowIndex="3" />
+                  <Label prefHeight="97.0" prefWidth="140.0" text="11-11:50" GridPane.rowIndex="4" />
+                  <Label prefHeight="66.0" prefWidth="110.0" text="12-12:50" GridPane.rowIndex="5" />
+                  <Label prefHeight="155.0" prefWidth="197.0" text="14-14:50" GridPane.rowIndex="7" />
+                  <Label prefHeight="187.0" prefWidth="134.0" text="13-13:50" GridPane.rowIndex="6" />
+               </children>
+            </GridPane>
+            <Label fx:id="labelOrar" alignment="CENTER" layoutY="-1.0" prefHeight="50.0" prefWidth="205.0" text="ORAR CLASA X" textFill="RED">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+            <ChoiceBox fx:id="selectClasa" focusTraversable="false" layoutX="479.0" layoutY="12.0" prefWidth="150.0" />
+            <Label alignment="CENTER_RIGHT" layoutX="360.0" layoutY="12.0" prefHeight="25.0" prefWidth="108.0" text="Selectează o clasă:">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+            <Button fx:id="pdfButton" focusTraversable="false" layoutX="210.0" layoutY="12.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="138.0" text="Salvează în format PDF" />
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>

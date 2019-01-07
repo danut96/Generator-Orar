@@ -1,0 +1,63 @@
+61 38 7
+5a 5b 6a 6b 7a 7b 7c 8a 8b 8c 9a 9b 9c 9d 9e 9f 9g 10a 10b 10c 10d 10e 10f 10g 11a 11b 11c 11d 11e 11f 11g 12a 12b 12c 12d 12e 12f 12g
+Gingu Dumitru, BIO, 5b 1 6b 2 7c 2 8c 1 9b 1 10a 1 10b 1 10c 1 12d 3 12e 2 12f 2 12g 2
+Tuineac Mihaela,BIO, 6a 2 7b 2 8b 1 9a 1 9d 3 9g 2 10e 2 10f 2 10g 2 11d 2
+Giuica Adriana, BIO, 5a 1 7a 2 8a 1 9c 1 9e 2 9f 2 10d 2 11e 2 11f 2 11g 2 12a 1 12b 1 
+Lungu Mihaela, CHM, 7a 2 7b 2 10f 2 10g 2 11e 1 12d 2 12f 1 10a 1
+Grecu Monica, CHM, 8c 2 8a 2 8b 2 9b 1 9d 2 9e 2 9f 2 10b 1 10c 1 10d 2 10e 2 11d 2 11f 1 12g 1 12e 1
+Breazu Doina, CHM, 7c 2 9a 1 9c 1 9g 2 11g 1 
+Giurgi Paul, GEO, 9a 2 9d 1 9e 1 9f 1 10b 2 10d 1 10e 1 10f 1 11a 1 11f 1 12b 2 12f 1 12g 1
+Barbulescu Carmen, GEO, 5b 1 6b 1 7a 1 8a 2 8b 2 9b 2 10a 2 11b 1 11e 1 11g 1 12a 2 12c 3 12e 1
+Raveanu Viorel, GEO, 5a 1 6a 1 7b 2 8c 2 10c 2 11c 2
+Daescu Dorina, GEO, 9c 2 9g 1 10g 1 11d 1 12d 1
+Georgescu Nicolina, ROM, 5a 5 9e 4 10b 4 11d 3 12b 4
+Arbanasi Ofelia, ROM, 9a 4 9f 4 10a 4 10g 3 12a 5
+Petrescu Magelona, ROM, 6b 5 9b 4 11e 3 11f 3 12e 4
+Genovu Camelia, ROM, 6a 5 7b 5 11a 5 12g 4
+Danoiu Elena, ROM, 5b 5 7a 4 8c 5 10e 3 12d 4
+Ciurel Mirela, ROM, 8a 5 8b 5 10f 3 11b 4 12f 4
+Chiris Gratiela, ROM, 7c 4 9c 4 9g 4 10c 4 11b 1 12b 1 12a 1 
+Roates Alin, ROM, 9d 4 10d 3 11a 1 11c 3 11g 3 12c 4
+Truica Ionela, SOC, 5b 1 6b 1 7a 1 7b 1 7c 1 8b 1 8c 1 9a 2 9c 2 11a 1 11b 1 12c 3 12d 1 12f 1
+Anastasescu Sergiu, SOC, 8a 1 9b 2 9e 1 9f 1 10c 3 10e 2 10f 1 11b 1 11e 1 12a 2 12b 2 12e 1
+Salapa Daniel, SOC, 10a 1 10b 1 10d 1 10g 1 11a 2 11c 2 11f 1
+Pirnau Constantina, SOC, 10a 2 10b 2 5a 1 6a 1 
+Socrate Daniela, SOC, 9d 1 10d 1
+Caldaruse Dan, SOC, 11a 1 11b 1 11c 4 12c 2
+Iovan Gabriel, SOC, 9d 1 9g 1 10d 1 12g 1
+Tanasescu Anisoara, SOC, 10f 1 10g 1 11d 3 11g 1
+Balasoiu Radu, EDFIZ, 5a 2 6b 2 7b 2 8a 1 9b 1 10e 2 10g 2 12a 1 12c 1 12d 2 12e 1 12g 1
+Lupu Razvan, EDFIZ, 6a 2 7a 2 8b 2 9e 1 10a 1 10b 1 10c 1 10d 2 10f 2 11a 1 11b 1 12b 1 12f 1
+Ancuta Zoran, EDFIZ, 5b 2 7c 2 9a 1 9c 1 9d 1 9f 2 9g 1 11c 1 11d 1 11e 2 11f 2 11g 2
+Paraschiv Mihai, EDFIZ, 9c 1 9g 1 12c 1
+Matei Lia, FIZ, 7a 2 8a 2 8c 2 9e 3 10e 3 11e 4 12d 3 12e 4
+Stretcu Simona, FIZ, 6a 2 8b 2 9f 3 10f 3 11f 3 12f 4 12g 4
+Matyus Pal, FIZ, 9a 2 9b 2 9c 2 9d 3 10g 3 10a 2 11a 1 11b 1
+Baltarete Ion, FIZ, 9g 3 10b 2 10c 2 10d 3 11d 3 11g 3
+Homeag Carmen, FIZ, 6b 2 7b 2 7c 2
+Vidan Luminita, MUZ, 5a 1 5b 1 6a 1 6b 1 7a 1 7b 1 7c 1 9a 1 9b 1 9c 1 11b
+Moaca Merima, DES, 5a 1 5b 1 6a 1 6b 2 7a 2 9a 1 9b 1 12b 1 7c 1 11a 1 11b 1 11c 1 11d 1 12a 2 12c 2
+Vladutu Stefan, DES, 7b 1 7c 1 9c 1 11a 1 11c 1
+Roman Mihaela, INFO, 6b 1 9f 3 10f 3 11c 2 11g 4 12a 2 12b 1 12c 2
+Barbulescu Anca, INFO, 9c 2 9e 4 10d 2 10g 3 11a 1 11d 2 12g 4
+Cretescu Rodica, INFO, 5a 1 6a 1 9a 2 9g 3 10a 1 10b 1 11f 4 12d 1 12f 4
+Serban Otilia, INFO, 5b 1 9b 2 9d 3 10c 1 10e 3 11b 1 11e 4 12e 4
+Bordea Irinela, IST, 6a 2 8a 2 8b 2 9b 2 10a 3 10b 3 12b 3 12e 1 12f 1 6b 1 7b 1
+Manescu Monica, IST, 5a 2 7a 1 7c 1 8c 2 9a 2 9e 1 9f 1 10e 1 10f 1 11b 4 11e 1 12a 3
+Danila Liviu, IST, 5b 2 9c 2 10c 3 10d 1 10g 1 11a 3 11c 4 11f 1 11g 1 11d 1 
+Sisman Petronela, IST, 9d 1 9g 1 12c 4 12d 1 12g 1 
+Negrea Daniela, LAT, 8a 1 8b 1 8c 1 9a 1 9b 1 9c 1 10a 2 10b 1 10c 1 11a 2 11b 2 11c 1 12a 1 12b 2
+Ungureanu Octavian, MAT, 6a 4 6b 4 10f 4 12e 4
+Stretcu Daniel, MAT, 9f 4 9g 4 10e 4 11f 5 12f 5
+Tatucu Mariana, MAT, 7c 5 8a 5 8b 5 11e 5 11g 5
+Dan Daniel, MAT, 9a 2 10b 2 10c 2 10d 4 10g 4 12c 2
+Capraru Daniel, MAT, 9b 2 9c 2 9d 4 10a 2 11c 2 11d 4
+Vasilicanu Florentina, MAT, 5a 4 5b 4 8c 5 12g 5
+Nedeianu Dan, MAT, 7a 5 7b 5 9e 4 12d 4
+Rada Sorin, REL, 5b 1 6a 1 6b 1 7a 1 7c 1 8b 1 9b 1 9d 1 9f 1
+Bogdan Constanta, REL, 10a 1 10b 1 10c 1 10d 1 10e 1 10f 1 10g 1 11g 1 12c
+Staiculescu Leontin, REL, 5a 1 7b 1 8a 1 8c 1 9a 1 9c 1 9e 1 9g 1 11a 1 11b 1 11c 1 11d 1 11e 1 11f 1 12a 1 12b 1 12d 1 12e 1 12f 1 12g
+Radulecu Ioana, TEHN, 5a 1 5b 1 6a 1 6b 1 7a 1 7b 1 7c 1 8a 1 8b 1 8c 1
+Vidan Luminita/Moaca Merima, MUZ/DES, 8a 1 8b 1 8c 1 9e 1 10b 1 10c 1 
+Vidan Luminita/Vladutu Stefan, MUZ/DES, 9d 1 9f 1 9g 1 10a 1 10d 1 10e 1 10f 1 10g 1
+Radovici, DES, 12d 1 12b 1
